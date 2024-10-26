@@ -1,0 +1,32 @@
+Task 1: PythonCardWar game (30 marks):
+
+You are tasked with creating and enhancing the PythonCardWar game to make it more
+engaging and feature-rich. In the current version, players simply draw cards and determine the
+winner based on card values. Your goal is to add new features, improve the user experience,
+and apply your programming skills to make the game more exciting. The game should be
+written in python and ensure Functions, Methods are utilized. Applying OOP principles can lead
+to additional marks however, this is optional.
+
+
+Requirements
+
+− Player Names- Allow players to enter their names at the beginning of the game so that the
+game can address them by name.
+
+− Rounds Limit - Implement a feature that allows you to set a limit on the number of rounds
+played. The game should announce the winner when the limit is reached, even if one player
+doesn't have any cards left.
+
+− Scorekeeping - Keep track of the score throughout the game. A player earns a point for
+each round they win. Display the score after each round.
+
+− Special Cards-Introduce special cards with unique effects. For example, you can create an
+"Ace of Hearts" that allows the player who draws it to take another turn or a "Joker" card
+that resets the score.
+
+− Optional: Save and Load - Allow the option to save the game state to a file and load it later.
+This feature is optional but can be a good challenge.
+
+− Challenge - Implement a custom rule or feature of your choice to make the game more
+exciting
+
